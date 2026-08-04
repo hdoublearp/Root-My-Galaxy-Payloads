@@ -63,6 +63,20 @@
       }
     },
     {
+      "payloadId": "q7mq-F968U1UES5BZG3",
+      "displayName": "Galaxy TriFold | Kernel 6.1.98",
+      "models": ["SM-F968U1"],
+      "kernelVersions": ["6.1.98"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/hdoublearp/Root-My-Galaxy-Payloads/main/artifacts/q7mq-F968U1UES5BZG3/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/hdoublearp/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S928USQS6DZF2-kdp",
+        "size": 4726416
+      }
+    },
+    {
       "payloadId": "e3q-S928USQS6DZF2",
       "displayName": "Galaxy S24 Ultra | Kernel 6.1.145",
       "models": ["SM-S928U"],
