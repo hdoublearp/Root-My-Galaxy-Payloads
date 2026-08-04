@@ -2,13 +2,13 @@
 #define OFFSET_H
 
 #if defined(APP_PAYLOAD) && APP_PAYLOAD
-#define BUILD_VARIANT_LABEL "q7mq-F968NKSS6BZG3-app-physical-p0-oracle"
+#define BUILD_VARIANT_LABEL "q7mq-F968U1UES5BZG3-app-physical-p0-oracle"
 #define APP_PHYS_P0_ORACLE 1
 #else
-#define BUILD_VARIANT_LABEL "q7mq-F968NKSS6BZG3-root-umh"
+#define BUILD_VARIANT_LABEL "q7mq-F968U1UES5BZG3-root-umh"
 #endif
 #ifndef BUILD_FINGERPRINT
-#define BUILD_FINGERPRINT "samsung/q7mqksx/q7mq:16/BP4A.251205.006/F968NKSS6BZG3_OKR6BZG3:user/release-keys"
+#define BUILD_FINGERPRINT "samsung/q7mquew/q7mq:16/BP4A.251205.006/F968U1UES5BZG3_OYM5BZG3:user/release-keys"
 #endif
 
 #define KIMAGE_TEXT_BASE 0xffffffc080000000ULL
